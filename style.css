@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(8, 125, 141);
+    text-align: center;
+    color: white;
+    padding: 7px;
+ 
+}
+li{
+    display: inline;
+    
+}
+ul{
+    word-spacing: 30px;
+}
+ul:hover{
+    color: red;
+}
